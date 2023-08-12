@@ -29,7 +29,8 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgw111111)](https://solved.ac/pgw111111/)       
 
    
-![geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkgeonmoo&show_icons=true&theme=radical)
+![geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkgeonmoo&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Parkgeonmoo(string)})](https://github.com/anuraghazra/github-readme-stats)
+[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
 
 
 <!--
