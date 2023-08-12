@@ -1,4 +1,6 @@
 
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+<img alt="Blog" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/pgw111111@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
