@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Blog-007396?style=flat-square&logo=Blog&logoColor=Orange"/>
+<img src="https://img.shields.io/badge/Blog-007396?style=flat-square&logo=Blog&logoColor=#FF7800"/>
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
