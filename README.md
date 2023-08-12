@@ -32,7 +32,7 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 #### 📊Most Used Language
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkgeonmoo&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkgeonmoo&layout=compact&theme=dark)
 
 
 
