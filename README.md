@@ -23,6 +23,9 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 #### 💪 Skills
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+#![geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkgeonmoo&show_icons=true&theme=radical)
+![geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkgeonmoo&show_icons=true&theme=radical)
 <!--
 **Parkgeonmoo/Parkgeonmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
