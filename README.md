@@ -1,3 +1,4 @@
+# 😎 Nice to meet me
 👋  Hi there! I'm park geon woo, a passionate backend developer with a love for crafting efficient solutions. 
 
 My main tech stack revolves around Java and the Spring framework. 
@@ -5,6 +6,8 @@ My main tech stack revolves around Java and the Spring framework.
 I am interested in improving user convenience by creating meaningful software that combines fintech and commerce technology.
 
 In my free time,I enjoy playing games and watching movies.🎥🎮
+
+## Back-end / Web Developer
 
 
 ##### 🌱 SNS LIST 🌱
