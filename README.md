@@ -1,5 +1,5 @@
 # 😎 Nice to meet me
-=========================================================================================================================
+
 👋  Hi there! I'm park geon woo, a passionate backend developer with a love for crafting efficient solutions. 
 
 My main tech stack revolves around Java and the Spring framework. 
