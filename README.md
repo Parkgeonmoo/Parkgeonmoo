@@ -8,9 +8,9 @@ I am interested in improving user convenience by creating meaningful software th
 
 In my free time,I enjoy playing games and watching movies.🎥🎮
 
-##### ⭐️Job 
+##### ⭐️ Job 
 
-##### Back-end / Web Developer
+###### Back-end / Web Developer
 
 
 ##### 🌱 SNS LIST 🌱
