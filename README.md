@@ -1,5 +1,5 @@
 
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=pgw111111@naver.com&logoColor=white">
+ <img src="https://img.shields.io/badge/pgw111111@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!--
