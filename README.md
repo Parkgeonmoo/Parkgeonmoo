@@ -3,7 +3,7 @@
 
 <a href="https://mail.naver.com/v2/new"><img src="https://img.shields.io/badge/pgw111111@naver.com-00E9A3?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.naver.com/v2/new"/></a>
 
-<img src="https://img.shields.io/badge/parkgeonwoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/건우-박-568a0a225"><img src="https://img.shields.io/badge/parkgeonwoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/건우-박-568a0a225"/></a>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!--
