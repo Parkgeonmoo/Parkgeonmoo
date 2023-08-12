@@ -29,8 +29,7 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgw111111)](https://solved.ac/pgw111111/)       
 
    
-![geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkgeonmoo&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Parkgeonmoo(string)})](https://github.com/anuraghazra/github-readme-stats)
-
+![geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkgeonmoo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkgeonmoo&layout=compact&theme=dark)
 
 
 <!--
