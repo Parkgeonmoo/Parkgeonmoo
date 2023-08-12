@@ -1,4 +1,4 @@
-# 😎 Nice to meet me
+# 😎 Thanks for coming to me
 
 👋  Hi there! I'm park geon woo, a passionate backend developer with a love for crafting efficient solutions. 
 
@@ -18,7 +18,10 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 <a href="https://www.linkedin.com/in/%EA%B1%B4%EC%9A%B0-%EB%B0%95-568a0a225/"><img src="https://img.shields.io/badge/parkgeonwoo-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4%EC%9A%B0-%EB%B0%95-568a0a225/"/></a>
  
 
+##### 💪 Skills
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <!--
 **Parkgeonmoo/Parkgeonmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
