@@ -1,7 +1,7 @@
 <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 <a href="https://zigzag-buckaroo-0f4.notion.site/TIL-Today-I-Learned-4546c5cb80c645f581ad36f9c34a6ede?pvs=4"><img alt="Tech_Blog" src ="https://img.shields.io/badge/Tech_Blog-8A9296.svg?&style=for-the-badge&logo=Notion&logoColor=white&link=https://zigzag-buckaroo-0f4.notion.site/TIL-Today-I-Learned-4546c5cb80c645f581ad36f9c34a6ede?pvs=4"></a>
 <a href="https://mail.naver.com/v2/new"><img alt="pgw111111@naver.com" src ="https://img.shields.io/badge/pgw111111@naver.com-00E9A3.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=https://mail.naver.com/v2/new"></a>    
-<a href="https://mail.naver.com/v2/new"><img src="https://img.shields.io/badge/pgw111111@naver.com-00E9A3?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.naver.com/v2/new"></a>
+
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!--
