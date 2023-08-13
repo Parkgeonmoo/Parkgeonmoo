@@ -16,7 +16,7 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 
 #### 🌱 Blog / E-mail / SNS  
 
-<a href="https://geonmoo.notion.site/TIL-Today-I-Learned-4546c5cb80c645f581ad36f9c34a6ede?pvs=4"><img src="https://img.shields.io/badge/Tech_Blog-8A9296?style=flat-square&logo=Notion&logoColor=white&link=https://geonmoo.notion.site/TIL-Today-I-Learned-4546c5cb80c645f581ad36f9c34a6ede?pvs=4"/></a>
+<a href="https://bit.ly/geonmoo_TIL"><img src="https://img.shields.io/badge/Tech_Blog-8A9296?style=flat-square&logo=Notion&logoColor=white&link=https://bit.ly/geonmoo_TIL"/></a>
 <a href="https://mail.naver.com/v2/new"><img src="https://img.shields.io/badge/pgw111111@naver.com-5CF6C7?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/v2/new"/></a>
 <a href="https://www.linkedin.com/in/%EA%B1%B4%EC%9A%B0-%EB%B0%95-568a0a225/"><img src="https://img.shields.io/badge/parkgeonwoo-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4%EC%9A%B0-%EB%B0%95-568a0a225/"/></a>
  
