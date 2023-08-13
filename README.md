@@ -11,7 +11,7 @@ In my free time,I enjoy playing games and watching movies.🎥🎮
 
 #### ⭐️ Job Title
 
-##### Back-end / Web Developer .
+##### Back-end / Web Developer 
 
 
 #### 🌱 Blog / E-mail / SNS  
