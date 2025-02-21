@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=250&section=header&text=Geonwoo's%20GitHub&fontSize=60&animation=twinkling)
-
 #### ⭐️ Job Title
 
 ##### Back-end / Web Developer 
